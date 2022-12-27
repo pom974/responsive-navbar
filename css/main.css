@@ -33,9 +33,10 @@ nav {
   align-items: center;
 }
 .topbar .topbar-item {
-  margin-right: 2em;
+  margin-right: 1em;
 }
 .topbar .topbar-item:last-child {
+  margin-right: 0em;
   margin-left: auto;
   display: none;
 }

@@ -45,10 +45,11 @@ nav
 
     .topbar-item
     {
-        margin-right: 2em;
+        margin-right: 1em;
 
         &:last-child
         {
+            margin-right: 0em;
             margin-left: auto;
             display: none;
         }
